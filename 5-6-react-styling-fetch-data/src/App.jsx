@@ -224,7 +224,6 @@ export default function App() {
 
     fetchUsers();
   }, []);
-
   /* =========================================================
      TODO 2.2 — FILTER USERS BY NAME
      File: src/App.jsx
